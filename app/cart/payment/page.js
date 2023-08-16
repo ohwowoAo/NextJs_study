@@ -1,8 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h4>애플후레시</h4>
-      <p>구매하기</p>
+      <h1>결제페이지입니다</h1>
     </main>
   );
 }
